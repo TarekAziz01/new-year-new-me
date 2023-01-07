@@ -95,7 +95,6 @@ header{
     margin: 100px auto;
     height: 180px;
     width: 990px;
-    background-color: blueviolet;
     padding: 100px;
     background-image: url(../images/watch.png);
     /* background: linear-gradient(0.25turn,rgb(248, 109, 9), #faf6f3); */
@@ -107,6 +106,7 @@ header{
     font-size: 48px;
     text-align: left;
     margin-bottom: 20px;
+    color: azure;
 }
 .about-img button{
     height: 80px;
