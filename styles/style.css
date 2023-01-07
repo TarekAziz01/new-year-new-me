@@ -168,3 +168,34 @@ input[type="button"]{
     background-color: rgb(255, 254, 253);
     color: rgb(245, 148, 50);
 }
+/* new section */
+.new-section{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 170px;
+}
+.new-section h3{
+    font-size: 40px;
+}
+.new-cont{
+    display: flex;
+    width: 800px;
+    height: 300px;
+    justify-content: space-between;
+    padding-top: 130px;
+    text-align: center;
+    align-items:center;
+    
+}
+.cont-box{
+    height: 300px;
+    width: 300px;
+    
+}
+.cont-box img{
+    border: 20px solid ;
+}
+.cont-box h4{
+    font-size:28px;
+}
